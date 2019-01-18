@@ -1,0 +1,24 @@
+h1 {
+    color: crimson;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 250%;
+}
+
+h2, h3 {
+    color: deeppink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+}
+
+body {
+    margin: 2em;
+}
+
+body, input[type = "text"], button {
+    color: gold;
+    font-family: Cambria, Georgia, Times, serif;
+}
+
+* {
+font-family: 'Times New Roman', Times, serif
+}
